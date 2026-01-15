@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mystery Culinary Shorts Creator",
+  "description": "An AI-powered video generator for TikTok and YouTube Shorts focused on culinary mysteries, using Gemini 3 for scripts, Veo for cinematic video, and Gemini TTS for narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
